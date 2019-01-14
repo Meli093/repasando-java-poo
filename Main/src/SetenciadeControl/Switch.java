@@ -1,5 +1,5 @@
 package SetenciadeControl;
-public class CalculaMes {
+public class Switch {
 public static void main(String[] args) {
         int mes = 4; // Mes del anio
         String estacion;
