@@ -4,7 +4,7 @@ características y atributos. Por ejemplo hemos creado dos objetos de tipo Perso
 y cada uno tiene características similares pero con valores distintos.
  * 
  */
-package Clase;
+package ClasePoo;
 
 /**
  *

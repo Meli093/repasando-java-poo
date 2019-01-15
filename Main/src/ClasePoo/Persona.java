@@ -1,4 +1,4 @@
-package Clase;
+package ClasePoo;
 
 /*clase sólo estamos definiendo la plantilla con la que vamos a
 trabajar, pero para poder usar esta plantilla necesitamos crear objetos.
